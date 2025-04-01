@@ -1,4 +1,11 @@
-задание 1
-https://colab.research.google.com/drive/15-nynF-5lF-06ULleQt4fn5wxsD-ZY0a?usp=sharing
-задание 2
-https://colab.research.google.com/drive/1zS4etF92EWtMg8ZMlm8S_5LO5WDhs7hT?usp=sharing
+1-https://colab.research.google.com/drive/15-nynF-5lF-06ULleQt4fn5wxsD-ZY0a?usp=sharing
+2-https://colab.research.google.com/drive/1zS4etF92EWtMg8ZMlm8S_5LO5WDhs7hT?usp=sharing
+3-https://colab.research.google.com/drive/151uPgyGy21bdd1lFONFe7TcTqTUsIS0a?usp=sharing
+4-https://colab.research.google.com/drive/1EF4OVsYZ4OBn__VLWMuF765bb_dN57B3?hl=ru#scrollTo=4461b233-c5d2-4713-acea-f1d61248302e
+5-https://colab.research.google.com/drive/1H5S6XhRNnsrJ9lhgICjA6yD5sv0UqV9z?usp=sharing
+6-https://colab.research.google.com/drive/1_j0juCbru6meeOmZgNyzGHYOn7Ni_ngb?hl=ru#scrollTo=6c1af312-2b27-489b-a82f-32c4a7690d11
+7-https://colab.research.google.com/drive/18LBkKoGHQN6pJIlMO5O7aQXr4YjCmAzf?usp=sharing
+10-https://colab.research.google.com/drive/11Avn0QrJwNtfGu44b-FMMV7UZ7cEYdSG?hl=ru#scrollTo=5220f1ca
+11-https://colab.research.google.com/drive/1wrD8mMqQ36TSSCQ1T_cMGQWdknSsbpoY?usp=sharing
+12-https://colab.research.google.com/drive/1Djtk3GQ1BZ2zzkeBChbtz458ZXuA_IGd?hl=ru#scrollTo=e62f3fee
+13-https://colab.research.google.com/drive/1kDlXVcMmyjWYM8GRLfDSrhQYj25-6pJH?usp=sharing
